@@ -1,0 +1,48 @@
+p{
+  line-height: 1.6;
+  text-align: justify;
+  margin: 0;
+  font-size: 14;
+}
+
+.Ispu{
+  float: left;
+  shape-margin: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.row > .col-sm-3{
+  padding-left: 0px;
+}
+
+.col-sm-3 .col-sm-12{
+  padding-right:0;
+  padding-left:0;
+}
+
+.small-box{
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.small-box .inner{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.col-sm-12 > .box > .box-body{
+  padding-bottom: 8px;
+  padding-top: 5px;
+}
+
+.small-box .icon-large{
+  top: 0px;
+  font-size: 60px;
+}
+
+.small-box h3{
+  padding-top: 10px;
+  padding-right: 10px;
+  margin: 0;
+}
